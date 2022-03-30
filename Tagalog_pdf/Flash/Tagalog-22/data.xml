@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<data count="1" textcount="25">
+    <language nametext="English">
+	<str>Previous Page - PgUp Key</str>
+	<str>Next Page - PgDn Key</str>
+	<str>First Page - Home Key</str>
+	<str>Last Page - End Key</str>
+	<str>Zoom +</str>
+	<str>Zoom -</str>
+	<str>Zoom Home</str>
+	<str>Print pages</str>
+	<str>About ...</str>
+	<str>Sound Off</str>
+	<str>Sound On</str>
+	<str>Full Screen</str>
+	<str>Exit Full Screen</str>
+	<str>Flash Player does not support keyboard input in the full-screen mode.</str>
+	<str>Thumbnails</str>
+	<str>Share</str>
+	<str>Title:</str>
+	<str>Author:</str>
+	<str>Copy URL</str>
+	<str>Cool flipping flash page, want to share with you all.</str>
+	<str>Folks, take a look at this cool flash flipping book.</str>
+	<str>Green your life, drop the papers and enjoy reading online.</str>
+	<str>You may be interested in this flash page-flip book</str>
+	<str>Download PDF</str>
+	<str>Table of contents</str>
+    </language>
+</data>

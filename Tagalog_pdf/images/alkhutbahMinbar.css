@@ -1,0 +1,242 @@
+body {
+  	background-color:#000000;
+}
+A:link {
+color:#0000ff; text-decoration:none;
+}
+A:visited {
+color:#0000ff; text-decoration:none;
+}
+A:hover {
+color:#ff0000; text-decoration: none;
+}
+.TitleEnglish {color:#000000;font-size:25px;text-align:center; text-shadow: 2px 2px #99cc00; margin:0px}
+	
+.TitleArabic { font-size:35px; margin: 0px; font-weight: bold;color: #006600;font-family: "KFGQPC Uthman Taha Naskh", traditional arabic, simplified arabic, akhbar mt; text-align:center;}
+
+.pinto {font-size:20px;text-transform: uppercase;}
+
+.Arabic-swt {direction:rtl; font-size:16px; padding: 0px 0px 0px 0px; color: #ff0000; font-family: "Times New Roman", traditional arabic, simplified arabic, akhbar mt;text-align:center;}
+
+.Arabic-saw {direction:rtl; font-size:16px; padding: 0px 0px 0px 0px; color: #006600; font-family: "Times New Roman", traditional arabic, simplified arabic, akhbar mt;text-align:center;}
+
+.hamdan-text {direction:rtl; font-size:30px; margin-top:0px; margin-bottom: 0px; padding: 0px 30px 0px 30px;color: #003300; font-family: "KFGQPC Uthman Taha Naskh", traditional arabic, simplified arabic, akhbar mt;text-align:justify;}
+
+.hamdan-text-cntr {direction:rtl; font-size:30px; margin-top:0px; margin-bottom: 0px; padding: 0px 30px 0px 30px;color: #003300; font-family: "KFGQPC Uthman Taha Naskh", traditional arabic, simplified arabic, akhbar mt;text-align:center;}
+
+P {text-align:justify;padding:0px 30px 0px 30px;font-size:17px;color:#000000; font-family:"verdana",Times New Roman,Georgia;}
+
+li {text-align:justify; margin:5px 30px 5px 30px;font-family:"verdana",Times New Roman,Georgia; font-size:17px;color:#000000 font-weight:normal;}
+
+blockquote {font-family:"verdana",Times New Roman, Georgia; font-size:17px; font-weight:normal; font-style:italic; padding-left: 20px; padding-right:20px; text-align:justify;color:#006600; }
+
+.kFooter {text-align:center; color: #ffff00; font-size:11px; font-family:"verdana",Times New Roman,Georgia ; padding-top: 0px; padding-bottom:0px; font-weight:bold;}
+
+iframe {
+width:95%;
+height:630px;
+background:#ffffff;
+margin-top: 10px;
+margin-bottom: 10px;
+padding:15px;
+-moz-border-radius: 20px;
+-webkit-border-radius: 20px; 
+border-radius: 20px; 
+
+border:1px solid #006600;
+}
+
+H1 {
+text-align:center; 
+font-weight:bold;
+margin:0px;
+color: #660000;}
+
+H2 {
+text-align:center; 
+font-weight:bold; 
+font-variant: small-caps;
+margin:10px 30px 0px 30px;
+color:#006600}
+
+H3 {
+font-size:21px;
+text-align:center; 
+text-transform: capitalize;
+background:#b9ffb9;
+margin:30px 30px 0px 30px;
+color: #000099;}
+    
+HR {width:93%; vertical-align:center;border:1px solid #e8e8e8}
+
+
+/*
+span
+{
+float:left;
+width:0.8em;
+font-size:300%;
+font-family:"algerian",courier;
+line-height:70%;
+color:#000099;
+}
+*/
+.curved1 { 
+	background-color: #006600; /* main curved green */
+	padding: 10px;
+	height: auto;
+	text-align: center;
+	border: 3px solid #ffff00; /* main curved border yellow */
+	-moz-border-radius: 25px;
+  	-webkit-border-radius: 25px;
+  	-khtml-border-radius: 25px;
+  	border-radius: 25px;
+  	behavior: url(border-radius.htc); /* MSIE fix */
+}
+
+.curved2 { 
+	background-color: #ffffcc; /* top curved logo and flash black */
+	margin: 8px 10px 3px 10px;	
+	padding: 5px 2px 0px 2px;
+	height: auto;
+	text-align: center;
+	border: 1px solid #99cc00; /* top curved logo and flash border green */
+	-moz-border-radius: 15px;
+  	-webkit-border-radius: 15px;
+  	-khtml-border-radius: 15px;
+  	border-radius: 15px;
+  	behavior: url(border-radius.htc); /* MSIE fix */
+}
+.curved3 { 
+	background-color: #006600;
+	margin: 5px 10px 5px 10px;	
+	padding: 1px;
+	height: auto;
+	text-align: center;
+	border: 1px solid #99cc00;
+	-moz-border-radius: 5px;
+  	-webkit-border-radius: 5px;
+  	-khtml-border-radius: 5px;
+  	border-radius: 5px;
+  	behavior: url(border-radius.htc); /* MSIE fix */
+}
+
+.curved4 { 
+	background-color: #ffff00;
+	padding: 6px 3px 6px 3px;
+	height: auto;
+	font-size: 11px;font-family:verdana;
+	font-weight: bold;
+	text-align: center;
+	border: 1px solid #99cc00;
+	-moz-border-radius: 5px;
+  	-webkit-border-radius: 5px;
+  	-khtml-border-radius: 5px;
+  	border-radius: 5px;
+  	behavior: url(border-radius.htc); /* MSIE fix */
+}
+
+.curved5 { 
+	background-color: #99cc00;
+	margin: 0px 10px 0px 10px;	
+	padding: 8px 15px 8px 15px;
+	height: auto;
+	text-align: center;
+	border: 1px solid #000000;
+  	-moz-border-radius: 25px;
+  	-webkit-border-radius: 25px;
+  	-khtml-border-radius: 25px;
+  	border-radius: 25px;
+  	behavior: url(border-radius.htc); /* MSIE fix */
+}
+.curved6 { 
+	background-color: #ffffff;
+	margin: 5px 10px 5px 10px;	
+	padding: 15px;
+	text-align: center;
+	height: auto;
+	border: 1px solid #006600;
+  	-moz-border-radius: 15px;
+  	-webkit-border-radius: 15px;
+  	-khtml-border-radius: 15px;
+  	border-radius: 15px;
+  	behavior: url(border-radius.htc); /* MSIE fix */
+}
+/*========================/*
+
+/*rounded menu default*/
+div.menu_default
+	{
+	display:inline;
+	background-color:#ffff00;
+	text-align:center;text-decoration:none;
+	padding-left:0;
+	padding-right:0;
+	padding-top:5px;
+	padding-bottom:5px;
+	border-radius:5.5px;
+	-webkit-border-radius:5.5px; /* Safari */
+	}
+
+/*rounded links*/
+.menu_default a:link,a:visited
+	{
+	font-weight:bold;
+	background-color:#ffff00
+	text-align:center;text-decoration:none;
+	padding-left:7px;
+	padding-right:7px;
+	padding-top:5px;
+	padding-bottom:5px;
+	border-radius:5.5px;
+	-webkit-border-radius:5.5px; /* Safari */
+	}
+.menu_default a:hover,a:active
+{
+background-color:#ffff00;
+}
+
+/*menu_default end here*/
+
+
+/*rounded menu top*/
+div.menu
+	{
+	display:inline;
+	background-color:#99cc00;
+	text-align:center;text-decoration:none;
+	padding-left:0;
+	padding-right:0;
+	padding-top:5px;
+	padding-bottom:5px;
+	border-radius:5.5px;
+	-webkit-border-radius:5.5px; /* Safari */
+	}
+/*rounded links*/
+.menu a:link,a:visited
+	{
+	background-color:#99cc00;
+	text-align:center;text-decoration:none;
+	padding-left:7px;
+	padding-right:7px;
+	padding-top:5px;
+	padding-bottom:5px;
+	border-radius:5.5px;
+	-webkit-border-radius:5.5px; /* Safari */
+	}
+.menu a:hover,a:active
+{
+background-color:#ccffff;
+}
+#shadows
+{
+/*Shadows*/
+	-moz-box-shadow:    0px 0px 9px 2px #041317;
+	-webkit-box-shadow: 0px 0px 9px 2px #041317;
+	box-shadow:         0px 0px 9px 2px #041317;
+}
+
+img.Img2 {float:left;margin:0px 0px 0px 0px;}
+img.Img1 {float:right;margin:0px;}
+
+#imgborder {border:5px solid #99cc00}
