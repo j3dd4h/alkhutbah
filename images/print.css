@@ -1,0 +1,56 @@
+#overflow_box {
+	DISPLAY: none; VISIBILITY: hidden
+}
+
+#header {
+	DISPLAY: none; VISIBILITY: hidden
+}
+#toolbar {
+	DISPLAY: none; VISIBILITY: hidden
+}
+#textSize {
+	DISPLAY: none; VISIBILITY: hidden
+}
+#quranPlayer {
+	DISPLAY: none; VISIBILITY: hidden
+}
+#columnLeft {
+	DISPLAY: none; VISIBILITY: hidden
+}
+#footer {
+	DISPLAY: none; VISIBILITY: hidden
+}
+.ayahBoxHeaderLinks {
+	DISPLAY: none; VISIBILITY: hidden
+}
+#main {
+	MARGIN: 0px; WIDTH: 100%
+}
+#columnMain {
+	FLOAT: none; WIDTH: 100%
+}
+#columnMainContent {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+#quranOutput {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+#quranIndex {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.ayahBoxHeader {
+	FLOAT: left; PADDING-TOP: 8px; POSITION: relative; TEXT-ALIGN: left
+}
+.ayahBox1 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px
+}
+.ayahBox2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px
+}
+.ayah {
+	MARGIN-RIGHT: 0px
+}
+SCRIPT {
+	DISPLAY: none; VISIBILITY: hidden
+}
+

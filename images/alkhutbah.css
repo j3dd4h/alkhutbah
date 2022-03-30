@@ -1,0 +1,135 @@
+body {
+  	background-color:#000000;
+}
+A:link {
+color:#0000ff; text-decoration:none;
+}
+A:visited {
+color:#0000ff; text-decoration:none;
+}
+A:hover {
+color:#ff0000; text-decoration: underline;
+}
+
+.kTitle {text-align:center; color: #0000ff; font-size:24px; font-weight: bold; font-family: "Georgia",Times New Roman,verdana ; margin:0px; font-variant:small-caps;}
+.kNumber {text-align:center; color: #660000; font-size:13px; font-weight: bold; font-family: "verdana",Times New Roman, Georgia; margin:0px;}
+.kAuthor {text-align:center; color: #000066; font-size:14px; font-weight: bold; font-family: "verdana",Times New Roman, Georgia; margin:4px;}
+
+.ArKhutbahTitle {text-align:center; direction:rtl; unicode-bidi:embed; font-weight:bold; font-size:30.0pt; font-family:"Traditional Arabic"; color:#006600; margin:0px;}
+
+.ArKhutbahHamdallah {text-align:justify; direction:rtl; unicode-bidi:embed; font-weight:bold; font-size:22.0pt; font-family:"Traditional Arabic"; color:#006600; margin-left:25px; margin-right:25px}
+
+.ArKhutbahHamdallahCntr {text-align:center; direction:rtl; unicode-bidi:embed; font-weight:bold; font-size:22.0pt; font-family:"Traditional Arabic"; color:#006600; margin-left:25px; margin-right:25px}
+
+
+.ArKhutbahText {text-align:justify; direction:rtl; unicode-bidi:embed; font-weight:bold; font-size:22.0pt; font-family:"Traditional Arabic"; color:#006600; margin-left:25px; margin-right:25px}
+
+.ArKhutbahTextCntr {text-align:center; direction:rtl; unicode-bidi:embed; font-weight:bold; font-size:20.0pt; font-family:"Traditional Arabic"; color:#006600; margin-left:25px; margin-right:25px}
+
+
+.EnKhutbahHamdallah {text-align:justify;  font-size:12.0pt; font-family:"verdana",Times New Roman,Georgia,Serif; color:#0000cc; margin-left:25px; margin-right:25px}
+
+.MnKhutbahText {
+text-indent:35px; text-align:justify; color:#000000; font-size:11pt; font-family:"verdana",Times New Roman,Georgia,Serif; margin-left:25px; margin-right:25px}
+
+
+.kFooter {text-align:center; color: #99cc00; font-size:11px; font-family:"verdana",Times New Roman,Georgia ; padding-top: 0px; padding-bottom:0px; font-weight:bold;}
+
+LI {text-align:justify; color:#000000; font-size:14pt; font-family:"Times New Roman",verdana,Georgia,Serif; margin-left:25px; margin-right:25px; padding:5px}
+
+H2 {text-align:center; font-weight:bold;}
+
+.ArSpan {color:#006600; font-weight:bold;}
+.SpanSAW {color:#006600; font-weight:normal;}
+.SpanSWT {color:#0000cc; font-weight:normal;}
+.SpanAS {color:#006600; font-weight:normal;}
+
+BLOCKQUOTE {
+text-align:justify; color:#0000ff; font-size:11pt; font-family:"verdana",Times New Roman,Georgia,Serif; margin-left:60px; padding:0px}
+
+
+.curved1 { 
+	background-color: #006600; /* main curved green */
+	margin: 5px;	
+	padding: 15px;
+	height: auto;
+	text-align: center;
+	border: 3px solid #ffff00; /* main curved border yellow */
+	-moz-border-radius: 25px;
+  	-webkit-border-radius: 25px;
+  	-khtml-border-radius: 25px;
+  	border-radius: 25px;
+  	behavior: url(border-radius.htc); /* MSIE fix */
+}
+.curved2 { 
+	background-color: #ffffcc; /* top curved logo and flash black */
+	margin: 15px;	
+	padding: 5px;
+	height: auto;
+	text-align: center;
+	border: 2px solid #99cc00; /* top curved logo and flash border green */
+	-moz-border-radius: 15px;
+  	-webkit-border-radius: 15px;
+  	-khtml-border-radius: 15px;
+  	border-radius: 15px;
+  	behavior: url(border-radius.htc); /* MSIE fix */
+}
+.curved3 { 
+	background-color: #006600;
+	margin: 10px;	
+	padding: 1px;
+	height: auto;
+	text-align: center;
+	border: 1px solid #99cc00;
+	-moz-border-radius: 5px;
+  	-webkit-border-radius: 5px;
+  	-khtml-border-radius: 5px;
+  	border-radius: 5px;
+  	behavior: url(border-radius.htc); /* MSIE fix */
+}
+
+.curved4 { 
+	background-color: #ffff00;
+	margin: 1px;	
+	padding: 5px;
+	height: auto;
+	font-size: 11px;
+	font-family: verdana;
+	font-weight: bold;
+	text-align: center;
+	border: 2px solid #99cc00;
+	-moz-border-radius: 5px;
+  	-webkit-border-radius: 5px;
+  	-khtml-border-radius: 5px;
+  	border-radius: 5px;
+  	behavior: url(border-radius.htc); /* MSIE fix */
+}
+
+
+.curved5 { 
+	background-color: #99cc00;
+	margin: 10px;	
+	padding: 15px;
+	height: auto;
+	text-align: center;
+	border: 1px solid #000000;
+  	-moz-border-radius: 25px;
+  	-webkit-border-radius: 25px;
+  	-khtml-border-radius: 25px;
+  	border-radius: 25px;
+  	behavior: url(border-radius.htc); /* MSIE fix */
+}
+.curved6 { 
+	background-color: #ffffff;
+	margin: 2px;	
+	padding: 10px;
+	height: auto;
+	text-align: justify;
+	color: #000099;
+	border: 1px solid #006600;
+  	-moz-border-radius: 15px;
+  	-webkit-border-radius: 15px;
+  	-khtml-border-radius: 15px;
+  	border-radius: 15px;
+  	behavior: url(border-radius.htc); /* MSIE fix */
+}
