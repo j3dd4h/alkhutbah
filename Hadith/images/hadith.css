@@ -1,0 +1,215 @@
+body {
+  	background-color:#000000;
+}
+A:link {
+color:#0000ff; text-decoration:none;
+}
+A:visited {
+color:#0000ff; text-decoration:none;
+}
+A:hover {
+color:#ff0000; text-decoration: underline;
+}
+
+P {text-align:justify;font-family:"Times New Roman" verdana, Times New Roman,Georgia; font-size:14pt; font-weight:normal;padding:0px 15px 0px 15px;margin:0px 0px 0px 0px;color:#006600}
+
+P.arabic {dir=RTL lang=AR-SA; font-size:25pt;font-family:"KFGQPC Uthman Taha Naskh", traditional arabic ,KFGQPC Uthman Taha Naskh;color:#000099;text-align:justify;direction:rtl;unicode-bidi:embed;padding:0px 15px 0px 15px; margin:10px 0px 0px 0px;}
+
+I {color:#006600;font-weight:bold}
+
+.kFooter {text-align:center; color: #ffff00; font-size:11px; font-family:"verdana",Times New Roman,Georgia ; padding-top: 0px; padding-bottom:0px; font-weight:bold;}
+
+LI {text-align:justify; font-family:"verdana",Times New Roman,Georgia; font-size:17px; font-weight:normal}
+
+H1 {text-align:center; font-variant:small-caps;color:#ccffff;margin:8px 0px 0px 0px;background:#006600}
+
+H2 {text-align:center; font-variant:small-caps; padding:5px 50px 5px 50px; margin:0px 10px 0px 10px;}
+
+H3 {font-weight:bold;font-size:24px;color:#3300ff}
+
+H4 {text-align:center;font-size:22px;color:#ff0000;font-weight:bold}
+
+HR {border:0.5px solid #99cc00}
+.footnote {font-size:14px}
+/* PBUH Salutation */
+SPAN {dir=RTL lang=AR-SA; font-size:15.0pt;font-family:"Arial Unicode MS","sans-serif";color:#006600;text-align:right;direction:rtl;unicode-bidi:embed;padding:0px 10px 0px 0px;;mso-fareast-font-family:"Times New Roman";font-style:normal;}
+
+SPAN.arabic {dir=RTL Lang=AR-SA; font-size:20pt;font-weight:bold;font-family:"KFGQPC Uthman Taha Naskh" ;color:#ff0000}	
+#quran {font-weight:bold;color:#006600;font-size:18px;}
+#imama {font-weight:bold;color:#ff0000;font-size:18px}
+
+BLOCKQUOTE {background:#fcfcfc; border: 1px solid #cccccc; padding: 0px 20px 0px 20px; font-weight:normal; font-size:17px;}
+#quote1 {font-size:15px; color:#006600;}
+#source1 {font-size:14px; color:#669900;}
+
+#quote2 {font-size:15px; color:#ff0000;}
+#source2 {font-size:14px; color:#0000ff;}
+
+#quote3 {font-size:15px; color:#660000;}
+#source3 {font-size:14px; color:#006600;}
+
+
+.curved1 { 
+	background-color: #006600; /* main curved green */
+	margin: 5px;	
+	padding: 10px;
+	height: auto;
+	text-align: center;
+	border: 3px solid #ffff00; /* main curved border yellow */
+	-moz-border-radius: 25px;
+  	-webkit-border-radius: 25px;
+  	-khtml-border-radius: 25px;
+  	border-radius: 25px;
+  	behavior: url(../images/border-radius.htc); /* MSIE fix */
+}
+
+.curved2 { 
+	background-color: #ffffff; /* top curved logo and flash black */
+	margin: 15px;	
+	padding: 5px;
+	height: auto;
+	text-align: center;
+	border: 2px solid #99cc00; /* top curved logo and flash border green */
+	-moz-border-radius: 15px;
+  	-webkit-border-radius: 15px;
+  	-khtml-border-radius: 15px;
+  	border-radius: 15px;
+  	behavior: url(../images/border-radius.htc); /* MSIE fix */
+}
+.curved3 { 
+	background-color: #006600;
+	margin: 10px;	
+	padding: 1px;
+	height: auto;
+	text-align: center;
+	border: 1px solid #99cc00;
+	-moz-border-radius: 5px;
+  	-webkit-border-radius: 5px;
+  	-khtml-border-radius: 5px;
+  	border-radius: 5px;
+  	behavior: url(../images/border-radius.htc); /* MSIE fix */
+}
+
+.curved4 { 
+	background-color: #ffff00;
+	margin: 1px;	
+	padding: 5px;
+	height: auto;
+	font-size: 11px;
+	font-family: verdana;
+	font-weight: bold;
+	text-align: center;
+	border: 2px solid #99cc00;
+	-moz-border-radius: 5px;
+  	-webkit-border-radius: 5px;
+  	-khtml-border-radius: 5px;
+  	border-radius: 5px;
+  	behavior: url(../images/border-radius.htc); /* MSIE fix */
+}
+
+
+.curved5 { 
+	background-color: #99cc00;
+	margin: 10px;	
+	padding: 15px;
+	height: auto;
+	text-align: center;
+	border: 1px solid #000000;
+  	-moz-border-radius: 25px;
+  	-webkit-border-radius: 25px;
+  	-khtml-border-radius: 25px;
+  	border-radius: 25px;
+  	behavior: url(../images/border-radius.htc); /* MSIE fix */
+}
+.curved6 { 
+	background-color: #ffffff;
+	margin: 5px;	
+	padding: 5px 0px 5px 0px;
+	text-align: justify;
+	height: auto;
+	border: 0px solid #006600;
+  	-moz-border-radius: 15px;
+  	-webkit-border-radius: 15px;
+  	-khtml-border-radius: 15px;
+  	border-radius: 15px;
+  	behavior: url(../images/border-radius.htc); /* MSIE fix */
+}
+/*========================/*
+
+/*rounded menu default*/
+div.menu_default
+	{
+	display:inline;
+	font-weight:normal;font-size:10px;font-family:verdana;
+	background-color:#ccffff;
+	text-align:center;text-decoration:none;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:8px;
+	padding-bottom:4px;
+	border-top-left-radius:1.2em;
+	border-top-right-radius:1.2em;
+	-webkit-border-top-right-radius:1.2em; /* Safari */
+	}
+
+/*rounded links*/
+.menu_default a:link,a:visited
+	{
+	font-weight:normal;font-size:10px;font-family:verdana;
+	background-color:#ccffff
+	text-align:center;text-decoration:none;
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:8px;
+	padding-bottom:4px;
+	border-top-left-radius:1.2em;
+	border-top-right-radius:1.2em;
+	-webkit-border-top-right-radius:1.2em; /* Safari */
+	}
+.menu_default a:hover,a:active
+{
+background-color:#ccffff;
+}
+
+/*menu_default end here*/
+
+
+/*rounded menu top*/
+div.menu
+	{
+	display:inline;
+	font-weight:normal;font-size:10px;font-family:verdana;
+	background-color:#99cc00;
+	text-align:center;text-decoration:none;
+	padding-top:8px;
+	padding-bottom:4px;
+	border-top-left-radius:1.2em;
+	border-top-right-radius:1.2em;
+	-webkit-border-top-right-radius:1.2em; /* Safari */
+	}
+	/*rounded links*/
+.menu a:link,a:visited
+	{
+	font-weight:normal;font-size:10px;font-family:verdana;
+	background-color:#99cc00;
+	text-align:center;text-decoration:none;
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:8px;
+	padding-bottom:4px;
+	border-top-left-radius:1.2em;
+	border-top-right-radius:1.2em;
+	-webkit-border-top-right-radius:1.2em; /* Safari */
+	}
+
+.menu a:hover,a:active
+{
+background-color:#ccffff;
+}
+#shadows
+{
+/*Shadows*/
+	-moz-box-shadow:    0px 0px 5px 1px #041317;
+	-webkit-box-shadow: 0px 0px 5px 1px #041317;
+	box-shadow:         0px 0px 5px 1px #041317;
+}
